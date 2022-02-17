@@ -6,4 +6,4 @@ The application was built with the Python programming language and PyQt5 for the
 Scientific and mathematical programming modules such as SciPy and Numpy are used to develop audio data processing and calculation capabilities. These modules provide a wide range of functions essential to developing the Plotting, Export, and Averaging features.
 
 # Screenshots
-
+![Audio Signal Processing](https://user-images.githubusercontent.com/41357084/154492675-29cd3f74-e37a-4de4-9caf-57c72a5cbc89.JPG) ![Filled](https://user-images.githubusercontent.com/41357084/154492780-c4dc580b-e329-49d0-a22f-9ce2691314f7.png)
